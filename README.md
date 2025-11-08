@@ -2,7 +2,7 @@
 
 Unity Project – 2D Character Oscillation System
 
-🎮 Play the game on Itch.io:
+🎮 Play the game on Itch.io: https://alpha444rt.itch.io/game01
 
 ⸻
 
