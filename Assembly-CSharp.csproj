@@ -48,7 +48,7 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.2.8f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scenes/Oscillator.cs" />
+    <Compile Include="Assets/Scripts/Oscillator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
